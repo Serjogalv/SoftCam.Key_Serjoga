@@ -1,37 +1,45 @@
 # SoftCam.Key_Serjoga
 SoftCam by Serjoga Latvia 12.12.18
-	<p><strong><span style="color: red">Update: </span></strong></p>
-	<p><br></p>
-	<p>Discovery-Europe 4.9°E  <span style="color: blue">PowerVu</span></p>
-	<p>Bulsatcom 39°E <span style="color: green">Irdeto</span></p>
-	<p>FeeD's NHL 1, NHL 2, NHL 3 22°W BISS (December key) <span style="color: brown">BISS</span></p>
-	<p>MIR Service ABS-2 75°E <span style="color: brown">BISS</span></p>
-	<p>SRTV Feed 16°E <span style="color: brown">BISS</span></p>
-	<p><br></p>
-	<p>FOX NETWORKS GROUP 42°E Tandberg <span style="color: red">DOWN</span></p>
-	<p>Arena Sport 1/Arena Sport 2/Arena Sport 3/Arena Sport 4 (1.9°E/39°E) Tandberg</p>
-	<p>Ant-1 Europe 9°E Viaccess</p>
-	<p>Mezzo 13°E Viaccess</p>
-	<p><br></p>
-	<p>PowerVu:</p>
-		<p>AFN 9°E</p>
-		<p>SIS Live 4.9°E</p>
-		<p>Discovery-Networks 4.9°E &amp; 0.9°W</p>
-		<p>Arqiva 4.9°E</p>
-		<p>Teleippica Eutelsat 16A 16.0°E</p>
-		<p>NBCU E! Entertainme</p>
-		<p>The Fight Network 15°W</p>
-	<p>XSport 4°W BISS</p>
-	<p>Rossia &amp; Match Tv 53°E BISS</p>
-	<p>STS, Che, Home  54.9°E BISS</p>
-	<p>STS +2 STS Love Che +2 Home +2 54.9°E BISS</p>
-	<p>STS +4, Che +4, Home +4 90E BISS</p>
-	<p>Disney +7h, STS +7h, HOME+7 90°E BISS</p>
-	<p>ESPN Caribbean (Caribbean 901) &amp; ESPN Syndication(Syndication 902) 15°W BISS</p>
-	<p>BBC Package 27.5°W BISS</p>
-	<p><br></p>
-	<p>and fix all other key's.</p>
 
+Add:
+DR TLMRC (13°E) BISS
+SS Service 1 HD (16°E) BISS
+
+Update:
+SRTV Feed (16°E) BISS
+FEED HD MBC (21.6°E) BISS
+TEST1, TEST2, TEST3 (4.9°E) BISS
+ESPN Caribbean (Caribbean 901) (15°W) BISS
+ESPN Syndication (Syndication 902) (15°W) BISS
+Discovery Europe Channels (12322V27500) (4.9°W) PowerVu
+Bulsat (39°E) Irdeto
+
+FOX NETWORKS GROUP 42°E Tandberg DOWN
+Arena Sport 1/Arena Sport 2/Arena Sport 3/Arena Sport 4 (1.9°E/39°E) Tandberg
+Ant-1 Europe 9°E Viaccess
+Mezzo 13°E Viaccess
+
+PowerVu:
+
+    AFN 9°E
+    SIS Live 4.9°E
+    Discovery-Networks 4.9°E & 0.9°W
+    Arqiva 4.9°E
+    Teleippica Eutelsat 16A 16.0°E
+    NBCU E! Entertainme
+    The Fight Network 15°W
+
+XSport 4°W BISS
+Rossia & Match Tv 53°E BISS
+STS, Che, Home  54.9°E BISS
+STS +2 STS Love Che +2 Home +2 54.9°E BISS
+STS +4, Che +4, Home +4 90E BISS
+Disney +7h, STS +7h, HOME+7 90°E BISS
+ESPN Caribbean (Caribbean 901) & ESPN Syndication(Syndication 902) 15°W BISS
+FeeD's NHL 1, NHL 2, NHL 3 22°W BISS (December key) BISS
+BBC Package 27.5°W BISS
+
+and fix all other key's.
 
 <p><strong><span style="color: red">enigma2-plugin-extensions-KeyUpdate_20181203-r1.3_all.ipk</span></strong></p>
 
